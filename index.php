@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">    
-    <title>HACKOR BABU CHECKER</title>
+    <title> Dark bin 321</title>
     <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i%7CComfortaa:300,400,700" rel="stylesheet">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="theme-assets/css/vendors.css">
@@ -135,7 +135,7 @@
 
 </style>
 <footer>
-  <p>Modified By <a href="https://t.me/hackorbabu">@babu696</a></p>
+  <p>Modified By <a href="https://t.me/darkbin321">@Darkbin321</a></p>
 </footer>
 <script>
 
@@ -182,7 +182,7 @@ swalWithBootstrapButtons.fire({
 })
 
 function RedirectUrl(){    
-       window.location.href ="https://t.me/hackorbabu";
+       window.location.href ="https://t.me/darkbin321";
     }
     
 $('.show-charge').click(function(){
